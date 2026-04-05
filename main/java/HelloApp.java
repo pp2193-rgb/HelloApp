@@ -1,5 +1,6 @@
-public class HelloApp {
+pupublic class HelloApp {
     public static void main(String[] args) {
-        System.out.println("Prithish");
+        String name = "Prithish";
+        System.out.println("Hello " + name + " !");
     }
 }
